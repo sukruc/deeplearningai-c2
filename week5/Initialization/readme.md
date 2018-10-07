@@ -2,7 +2,7 @@
 
 Welcome to the first assignment of the hyper parameters tuning specialization. It is very important that you regularize your model properly because it could dramatically improve your results.
 
-[initialization.png]:Initialization
+![initialization](initialization.png)
 
 By completing this assignment you will:
 
